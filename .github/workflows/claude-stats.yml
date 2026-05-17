@@ -8,6 +8,7 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    if: ${{ secrets.ANTHROPIC_ADMIN_API_KEY != '' }}
     permissions:
       contents: write
 
@@ -20,7 +21,7 @@ jobs:
 
       - name: Generate Claude stats SVG
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_ADMIN_API_KEY: ${{ secrets.ANTHROPIC_ADMIN_API_KEY }}
         run: node scripts/generate-claude-stats.js
 
       - name: Commit updated SVG
@@ -28,5 +29,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/claude-stats.svg
-          git diff --staged --quiet || git commit -m "chore: update Claude API usage stats"
+          git diff --staged --quiet || git commit -m "chore: update Claude Code usage stats"
           git push
