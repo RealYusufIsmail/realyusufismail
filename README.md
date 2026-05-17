@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20views&color=0e75b6&style=flat" alt="realyusufismail" />
-  <a href="https://wakatime.com/@f0f08b60-5529-4266-bfff-4cad16da581e"><img src="https://wakatime.com/badge/user/f0f08b60-5529-4266-bfff-4cad16da581e.svg" alt="Total time coded since May 17 2022" /></a>
 </p>
 
 ## 👋 About Me
@@ -32,11 +31,10 @@ GitHub Desktop, IntelliJ IDEA, VS Code, JetBrains Fleet
 - **Open Source Contributor**: Active in multiple projects
 - **Leadership**: Former Deputy Head Boy, Sixth Form
 
-## 📈 Coding Stats
+## 📈 Claude API Usage
 
 <p align="center">
-  <a href="https://wakatime.com/share/@RealYusufIsmail/5e02df34-6c3f-4ce7-8df3-5e17628b3949.svg" target="_blank"><img src="https://wakatime.com/share/@RealYusufIsmail/5e02df34-6c3f-4ce7-8df3-5e17628b3949.svg" width="49%"/></a>
-  <a href="https://wakatime.com/share/@RealYusufIsmail/ac5a0335-9cc7-4b5c-9212-5b312d7392ca.svg" target="_blank"><img src="https://wakatime.com/share/@RealYusufIsmail/ac5a0335-9cc7-4b5c-9212-5b312d7392ca.svg" width="49%"/></a>
+  <img src="./assets/claude-stats.svg" alt="Claude API Usage Stats" width="495"/>
 </p>
 
 ## 💬 Connect With Me
