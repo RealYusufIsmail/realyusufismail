@@ -8,6 +8,7 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    if: ${{ secrets.ANTHROPIC_ADMIN_API_KEY != '' }}
     permissions:
       contents: write
 
