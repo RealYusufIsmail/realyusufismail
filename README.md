@@ -20,11 +20,11 @@
     <img src="https://img.shields.io/badge/Apprentice_Wizard-Founder_%26_CEO-0e75b6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f172a" alt="Apprentice Wizard" />
   </a>
   &nbsp;
+  <img src="https://img.shields.io/badge/J.P._Morgan-Infrastructure_Engineer-795548?style=for-the-badge&logo=jpmorganchase&logoColor=white&labelColor=0f172a" alt="J.P. Morgan" />
+  &nbsp;
   <a href="https://www.linkedin.com/in/yusufarfanismail/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=0f172a" alt="Profile views" />
 </p>
 
 <!-- ════════════════════════════════════════════════════════════════
@@ -40,18 +40,7 @@ At 16, mid-lockdown, that was a **Minecraft mod** — my mods have since passed 
 By day I'm an **Infrastructure Engineer Degree Apprentice at J.P. Morgan**, reading **Software Engineering** at the **University of Exeter**.
 
 > [!NOTE]
-> **My philosophy:** A pilot has to know how the plane flies — not just how to press the buttons.
-> Understand the *language* and the *tool*. Learn the language, learn the tool, **then** use the tool.
-
-```ts
-const yusuf = {
-  role:      ["Founder & CEO @ Apprentice Wizard", "Infra Engineer @ J.P. Morgan"],
-  studying:  "BSc Software Engineering @ University of Exeter",
-  languages: ["Java", "Kotlin", "TypeScript", "Python"],
-  focus:     ["cloud", "DevOps", "distributed systems"],
-  mindset:   "Always building, always learning.",
-};
-```
+> **My philosophy:** a pilot has to know how the plane flies — not just which buttons to press. Learn the language, learn the tool, *then* use the tool.
 
 <!-- ════════════════════════════════════════════════════════════════
                               STACK
@@ -135,14 +124,7 @@ const yusuf = {
 | ⏳ **[TemporalSmith](https://www.curseforge.com/members/realyusufismail/projects)** | Minecraft mod — time-themed weapons, tools &amp; dimensions | `Java` `Gradle` | **15.1K** downloads |
 | 🧩 **[JConfig](https://github.com/RealYusufIsmail/JConfig)** | Lightweight JSON config library for Java &amp; Kotlin | `Java` `Kotlin` `JSON` | Published library |
 
-> [!TIP]
-> **190K+ total mod downloads** across CurseForge, plus open-source libraries on the JVM. More on my [repositories tab](https://github.com/realyusufismail?tab=repositories).
-
-### 🌍 Open source I've contributed to
-
-| Project | Role | Impact |
-| :--- | :--- | :--- |
-| ⭐ **[Javacord](https://github.com/Javacord/Javacord)** | Core contributor — **#11 of 63**, 21 commits (+3,600 LOC) | A **773★** Java Discord library powering bots on **100,000+ servers** |
+**Open source:** core contributor to **[Javacord](https://github.com/Javacord/Javacord)** — **#11 of 63 contributors** on a 773★ Java Discord library that powered bots on 100,000+ servers · [more repos →](https://github.com/realyusufismail?tab=repositories)
 
 <!-- ════════════════════════════════════════════════════════════════
                               HONOURS
