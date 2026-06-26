@@ -97,14 +97,6 @@ const yusuf = {
   </picture>
 </p>
 
-<details>
-  <summary>🤖 <b>Claude API usage</b> — click to expand</summary>
-  <br/>
-  <p align="center">
-    <img src="./assets/claude-stats.svg" alt="Claude API Usage Stats" width="495"/>
-  </p>
-</details>
-
 <!-- ════════════════════════════════════════════════════════════════
                               WORK
 ═════════════════════════════════════════════════════════════════ -->
