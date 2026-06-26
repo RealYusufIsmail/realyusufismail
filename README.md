@@ -17,12 +17,14 @@
 
 <p align="center">
   <a href="https://apprenticewizard.co.uk">
-    <img src="https://img.shields.io/badge/Apprentice_Wizard-Founder_%26_CEO-0e75b6?style=for-the-badge&logo=rocket&logoColor=white" alt="Apprentice Wizard" />
+    <img src="https://img.shields.io/badge/Apprentice_Wizard-Founder_%26_CEO-0e75b6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f172a" alt="Apprentice Wizard" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/yusufarfanismail/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=0f172a" alt="Profile views" />
 </p>
 
 <!-- ════════════════════════════════════════════════════════════════
@@ -131,13 +133,15 @@ const yusuf = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusufarfanismail/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yusuf_Arfan_Ismail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Yusuf_Arfan_Ismail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://apprenticewizard.co.uk">
-    <img src="https://img.shields.io/badge/Web-apprenticewizard.co.uk-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-apprenticewizard.co.uk-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Website" />
   </a>
+  &nbsp;
   <a href="https://github.com/realyusufismail/Certificates">
-    <img src="https://img.shields.io/badge/Certificates-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="Certificates" />
+    <img src="https://img.shields.io/badge/Certificates-View-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="Certificates" />
   </a>
 </p>
 
