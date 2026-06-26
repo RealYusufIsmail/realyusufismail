@@ -1,80 +1,152 @@
-<h1 align="center">Salam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> I'm Yusuf</h1>
+<!-- ════════════════════════════════════════════════════════════════
+                              HEADER
+═════════════════════════════════════════════════════════════════ -->
+
+<h1 align="center">
+  Salam, I'm Yusuf
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42">
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20views&color=0e75b6&style=flat" alt="realyusufismail" />
+  <b>Founder &amp; CEO @ Apprentice Wizard</b> &nbsp;•&nbsp; <b>Infrastructure Engineer @ J.P. Morgan</b>
 </p>
-
-## 👋 About Me
-
-I’m Yusuf, an Infrastructure Engineer Degree Apprentice at **J.P. Morgan** (United Kingdom), studying Software Engineering at the University of Exeter. With over five years of hands-on experience in Java, Kotlin, and TypeScript, I thrive on building innovative solutions—from Minecraft mods with 130,000+ downloads to collaborative Discord bots and web apps.
-
-My coding journey began during the COVID era, evolving into a rewarding career in technology. I’m passionate about teamwork, open-source, and community—demonstrated by my leadership roles and ongoing contributions.
-
-Outside of tech, I love hiking, exploring new innovations, and connecting with fellow developers. Let’s build something awesome together!
-
-## 🚀 What I’m Working On
-
-- **JPM Stuff**
-- Expanding my skills in cloud infrastructure, automation, and DevOps
-
-## 🛠️ Skills & Tools
-
-**Languages:**  
-Java, Kotlin, TypeScript, JavaScript, HTML, CSS, Swift, Markdown, JSON
-
-**Tools:**  
-GitHub Desktop, IntelliJ IDEA, VS Code, JetBrains Fleet
-
-## 🏆 Achievements
-
-- **Minecraft Mod Creator**: [Curseforge Profile](https://www.curseforge.com/members/realyusufismail/projects)
-- **Open Source Contributor**: Active in multiple projects
-- **Leadership**: Former Deputy Head Boy, Sixth Form
-
-## 📈 Claude API Usage
 
 <p align="center">
-  <img src="./assets/claude-stats.svg" alt="Claude API Usage Stats" width="495"/>
+  <i>I build the tools I wish I'd had. Self-taught at 16, shipping in production at 18.</i>
 </p>
-
-## 💬 Connect With Me
-
-<table>
-    <thead>
-        <tr>
-            <th>Logo</th>
-            <th>Link</th>
-            <th>Info</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="40" width="40" alt="P" /></td>
-            <td><a href="https://discord.gg/XWYHxUYsY8" target="_blank"> Programming! </a></td>
-            <td>Staff/Admin | ~3,000 members</td>
-        </tr>
-        <tr>
-            <td><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" alt="L" /></td>
-            <td><a href="https://www.linkedin.com/in/yusufarfanismail/" target="_blank"> Yusuf Arfan Ismail </a></td>
-            <td>Let’s connect!</td>
-        </tr>
-        <tr>
-            <td><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="40" width="40" alt="D" /></td>
-            <td><a href="https://discord.com/users/422708001976221697" target="_blank"> yusuf.i </a></td>
-            <td>Fast response</td>
-        </tr>
-    </tbody>
-</table>
-
-## 🏅 Badges & Certificates
 
 <p align="center">
-  <a href="https://holopin.io/@realyusufismail"><img src="https://holopin.me/realyusufismail" alt="@realyusufismail's Holopin board"/></a>
+  <a href="https://apprenticewizard.co.uk">
+    <img src="https://img.shields.io/badge/Apprentice_Wizard-Founder_%26_CEO-0e75b6?style=for-the-badge&logo=rocket&logoColor=white" alt="Apprentice Wizard" />
+  </a>
+  <a href="https://www.linkedin.com/in/yusufarfanismail/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-- [Certificates for completed courses](https://github.com/realyusufismail/Certificates)
+<!-- ════════════════════════════════════════════════════════════════
+                              ABOUT
+═════════════════════════════════════════════════════════════════ -->
 
-## ☕ Support Me
+## 👋 About me
 
-If you’d like to support my work, you can donate here:  
-<a href="https://ko-fi.com/yusufi"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
+I build things I needed and couldn't find.
+
+At 16, mid-lockdown, that was a **Minecraft mod** — it reached **130,000+ downloads** and taught me how to ship. Today it's [**Apprentice Wizard**](https://apprenticewizard.co.uk), the platform I founded to fix UK apprenticeship hunting: **15,000+ live roles**, an application tracker, and AI CV tooling used by students across the country.
+
+By day I'm an **Infrastructure Engineer Degree Apprentice at J.P. Morgan**, reading **Software Engineering** at the **University of Exeter**.
+
+> [!NOTE]
+> **My philosophy:** A pilot has to know how the plane flies — not just how to press the buttons.
+> Understand the *language* and the *tool*. Learn the language, learn the tool, **then** use the tool.
+
+```ts
+const yusuf = {
+  role:      ["Founder & CEO @ Apprentice Wizard", "Infra Engineer @ J.P. Morgan"],
+  studying:  "BSc Software Engineering @ University of Exeter",
+  languages: ["Java", "Kotlin", "TypeScript", "Python"],
+  focus:     ["cloud", "DevOps", "distributed systems"],
+  mindset:   "Always building, always learning.",
+};
+```
+
+<!-- ════════════════════════════════════════════════════════════════
+                              STACK
+═════════════════════════════════════════════════════════════════ -->
+
+## 🧰 Tech I build with
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/jOOQ-CC0000?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
+<!-- ════════════════════════════════════════════════════════════════
+                              STATS
+═════════════════════════════════════════════════════════════════ -->
+
+## 📊 By the numbers
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=realyusufismail&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=realyusufismail&show_icons=true&hide_border=true&count_private=true&theme=default" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=realyusufismail&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realyusufismail&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=realyusufismail&layout=compact&hide_border=true&langs_count=8&theme=default" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyusufismail&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+  </picture>
+</p>
+
+<details>
+  <summary>🤖 <b>Claude API usage</b> — click to expand</summary>
+  <br/>
+  <p align="center">
+    <img src="./assets/claude-stats.svg" alt="Claude API Usage Stats" width="495"/>
+  </p>
+</details>
+
+<!-- ════════════════════════════════════════════════════════════════
+                              WORK
+═════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Things I've built
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| 🧙 **[Apprentice Wizard](https://apprenticewizard.co.uk)** | The UK apprenticeship platform I founded — 15,000+ live roles, application tracker, AI CV tooling | `Next.js` `TypeScript` `Supabase` |
+| 🛡️ **[MystiGuardian](https://github.com/BotCraftHub/MystiGuardian)** | A Discord moderation &amp; utility bot | `Java` `jOOQ` |
+| ⏳ **[TemporalSmith](https://www.curseforge.com/members/realyusufismail/projects)** | A Minecraft mod — time-themed weapons &amp; dimensions | `Java` |
+
+> [!TIP]
+> More on my [repositories tab](https://github.com/realyusufismail?tab=repositories) — JVM &amp; TypeScript ecosystem contributions.
+
+<!-- ════════════════════════════════════════════════════════════════
+                              HONOURS
+═════════════════════════════════════════════════════════════════ -->
+
+## 🏆 Honours
+
+- [x] 🥇 **Academic Achievement in Computer Science** — one of two awarded to the Year 13 cohort
+- [x] ⭐ **Principal's Star Academies Pupil Award** — sole recipient in the year group
+- [x] 🎮 **Minecraft mod** with **130,000+ downloads**, built at 16
+- [x] 💼 Intern at AI startups → **Infrastructure Engineer @ J.P. Morgan**
+
+<!-- ════════════════════════════════════════════════════════════════
+                              CONNECT
+═════════════════════════════════════════════════════════════════ -->
+
+## 💬 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yusufarfanismail/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yusuf_Arfan_Ismail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://apprenticewizard.co.uk">
+    <img src="https://img.shields.io/badge/Web-apprenticewizard.co.uk-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/realyusufismail/Certificates">
+    <img src="https://img.shields.io/badge/Certificates-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="Certificates" />
+  </a>
+</p>
+
+<p align="center"><sub><i>Always building, always learning. Alḥamdulillāh.</i></sub></p>
