@@ -138,6 +138,12 @@ const yusuf = {
 > [!TIP]
 > **190K+ total mod downloads** across CurseForge, plus open-source libraries on the JVM. More on my [repositories tab](https://github.com/realyusufismail?tab=repositories).
 
+### 🌍 Open source I've contributed to
+
+| Project | Role | Impact |
+| :--- | :--- | :--- |
+| ⭐ **[Javacord](https://github.com/Javacord/Javacord)** | Core contributor — **#11 of 63**, 21 commits (+3,600 LOC) | A **773★** Java Discord library powering bots on **100,000+ servers** |
+
 <!-- ════════════════════════════════════════════════════════════════
                               HONOURS
 ═════════════════════════════════════════════════════════════════ -->
