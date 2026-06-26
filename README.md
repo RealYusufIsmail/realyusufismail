@@ -35,7 +35,7 @@
 
 I build things I needed and couldn't find.
 
-At 16, mid-lockdown, that was a **Minecraft mod** — it reached **130,000+ downloads** and taught me how to ship. Today it's [**Apprentice Wizard**](https://apprenticewizard.co.uk), the platform I founded to fix UK apprenticeship hunting: **15,000+ live roles**, an application tracker, and AI CV tooling used by students across the country.
+At 16, mid-lockdown, that was a **Minecraft mod** — my mods have since passed **190,000+ downloads** and taught me how to ship. Today it's [**Apprentice Wizard**](https://apprenticewizard.co.uk), the platform I founded to fix UK apprenticeship hunting: **15,000+ live roles**, an application tracker, and AI CV tooling used by students across the country.
 
 By day I'm an **Infrastructure Engineer Degree Apprentice at J.P. Morgan**, reading **Software Engineering** at the **University of Exeter**.
 
@@ -122,14 +122,21 @@ const yusuf = {
 
 ## 🚀 Things I've built
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| 🧙 **[Apprentice Wizard](https://apprenticewizard.co.uk)** | The UK apprenticeship platform I founded — 15,000+ live roles, application tracker, AI CV tooling | `Next.js` `TypeScript` `Supabase` |
-| 🛡️ **[MystiGuardian](https://github.com/BotCraftHub/MystiGuardian)** | A Discord moderation &amp; utility bot | `Java` `jOOQ` |
-| ⏳ **[TemporalSmith](https://www.curseforge.com/members/realyusufismail/projects)** | A Minecraft mod — time-themed weapons &amp; dimensions | `Java` |
+> [!IMPORTANT]
+> 🧙 **[Apprentice Wizard](https://apprenticewizard.co.uk)** — my flagship. The UK apprenticeship platform I founded and lead as CEO:
+> **15,000+ live roles**, a Kanban application tracker, a free ATS-scoring CV builder, and AI interview tooling. Built end-to-end in `Next.js` · `TypeScript` · `Supabase`.
+
+| Project | What it is | Stack | Reach |
+| :--- | :--- | :--- | :--- |
+| 📚 **[YDWK](https://github.com/YDWK/YDWK)** | A Discord API wrapper written from scratch in Kotlin — fast, idiomatic, fully async | `Kotlin` `Coroutines` | Published library |
+| 🛡️ **[MystiGuardian](https://github.com/BotCraftHub/MystiGuardian)** | Discord moderation &amp; utility bot powering a ~3,000-member server | `Java` `jOOQ` | Production bot |
+| 🦸 **[Ben 10 Mod](https://www.curseforge.com/members/realyusufismail/projects)** | Minecraft mod adding heroes, villains, armour &amp; items from the series | `Java` `Gradle` | **118.8K** downloads |
+| ⚙️ **[RealYusufIsmail Core](https://www.curseforge.com/members/realyusufismail/projects)** | Shared core library underpinning my Minecraft mods | `Java` `Gradle` | **53.5K** downloads |
+| ⏳ **[TemporalSmith](https://www.curseforge.com/members/realyusufismail/projects)** | Minecraft mod — time-themed weapons, tools &amp; dimensions | `Java` `Gradle` | **15.1K** downloads |
+| 🧩 **[JConfig](https://github.com/RealYusufIsmail/JConfig)** | Lightweight JSON config library for Java &amp; Kotlin | `Java` `Kotlin` `JSON` | Published library |
 
 > [!TIP]
-> More on my [repositories tab](https://github.com/realyusufismail?tab=repositories) — JVM &amp; TypeScript ecosystem contributions.
+> **190K+ total mod downloads** across CurseForge, plus open-source libraries on the JVM. More on my [repositories tab](https://github.com/realyusufismail?tab=repositories).
 
 <!-- ════════════════════════════════════════════════════════════════
                               HONOURS
@@ -139,7 +146,7 @@ const yusuf = {
 
 - [x] 🥇 **Academic Achievement in Computer Science** — one of two awarded to the Year 13 cohort
 - [x] ⭐ **Principal's Star Academies Pupil Award** — sole recipient in the year group
-- [x] 🎮 **Minecraft mod** with **130,000+ downloads**, built at 16
+- [x] 🎮 **Minecraft mods** with **190,000+ downloads**, first shipped at 16
 - [x] 💼 Intern at AI startups → **Infrastructure Engineer @ J.P. Morgan**
 
 <!-- ════════════════════════════════════════════════════════════════
